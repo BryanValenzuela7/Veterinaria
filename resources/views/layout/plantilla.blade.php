@@ -21,19 +21,16 @@
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
 
-                    <!--<a href="/" class="logo">
-                        El GATO
-                    </a> -->
+                    <a href="/" class="logo">
+                        El patito
+                    </a>
                     <!-- ***** Logo End ***** -->
                     <!-- ***** Menu Start ***** -->
                     <ul class="nav">
                         <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
                         <li class="scroll-to-section"><a href="/acerca">Acerca</a></li>
-                        <li class="scroll-to-section"><a href="#projects">Projects</a></li>
                         <li class="scroll-to-section"><a href="/auth/login">Login</a></li>
-                        <div class="search-icon">
-                            <a href="#search"><i class="fa fa-search"></i></a>
-                        </div>
+
                     </ul>
                     <a class='menu-trigger'>
                         <span>Menu</span>

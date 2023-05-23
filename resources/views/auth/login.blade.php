@@ -19,7 +19,7 @@
 </head>
 <body>
 <a href="/" class="logo">
-    El GATO
+    El patito
 </a>
 <div class="container">
     <div class="row" style="margin-top: 45px">

@@ -21,7 +21,8 @@
             <div class="row">
                 <div class="col-12">
                     <h3>Acerca de nosotros</h3>
-                    <p>En la veterinaria el GATO, sabemos que las mascotas son mucho más que simples animales. Para muchas personas, son miembros de la familia, compañeros inseparables y fuente de amor incondicional. Es por eso que nuestro objetivo es ofrecer el mejor cuidado y atención posible para tus mascotas.</p>
+                    <p>En la veterinaria el patito, sabemos que las mascotas son mucho más que simples animales. Para muchas personas, son miembros de la familia, compañeros inseparables y fuente de amor incondicional. Es por eso que nuestro objetivo es ofrecer el mejor cuidado y atención posible para tus mascotas.</p>
+                    <p>Pagina creada por Bryan Valenzuela</p>
                 </div>
             </div>
         </div>

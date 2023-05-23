@@ -41,9 +41,9 @@
         <!-- Item -->
         <div class="item">
             <div class="img-fill">
-                <img src="{{asset('images/gato1.jpg')}}" alt="">
+                <img src="{{asset('images/pato01.jpg')}}" alt="">
                 <div class="text-content bg-dark bg-opacity-50">
-                    <h3 class="text-white">Bienvenido a la veterinaria el GATO</h3>
+                    <h3 class="text-white">Bienvenido a la veterinaria el patito</h3>
                     <h5 class="text-white">Cuidado a tu mascota</h5>
                 </div>
             </div>
@@ -52,24 +52,15 @@
         <!-- Item -->
         <div class="item">
             <div class="img-fill">
-                <img src="{{ asset('images/gato2.jpg') }}" alt="">
+                <img src="{{ asset('images/pato02.jpg') }}" alt="">
                 <div class="text-content bg-dark bg-opacity-50">
-                    <h3 class="text-white">Bienvenido a la veterinaria el GATO</h3>
-                    <h5 class="text-white">Cuidado a tu mascota</h5>
+                    <h3 class="text-white">Bienvenido a la veterinaria el patito</h3>
+                    <h5 class="text-white">Cuidamos a tu mascota</h5>
                 </div>
             </div>
         </div>
         <!-- // Item -->
         <!-- Item -->
-        <div class="item">
-            <div class="img-fill">
-                <img src="{{ asset('images/gato3.jpg')}}" alt="">
-                <div class="text-content bg-dark bg-opacity-50">
-                    <h3 class="text-white">Bienvenido a la veterinaria el GATO</h3>
-                    <h5 class="text-white">Cuidado a tu mascota</h5>
-                </div>
-            </div>
-        </div>
         <!-- // Item -->
     </div>
 </div>

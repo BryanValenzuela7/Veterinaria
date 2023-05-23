@@ -20,10 +20,10 @@
     <!-- Item -->
     <div class="item">
         <div class="img-fill">
-            <img src="{{asset('images/gato1.jpg')}}" alt="">
+            <img src="{{asset('images/pato01.jpg')}}" alt="">
             <div class="text-content bg-dark bg-opacity-50">
-                <h3 class="text-white">Bienvenido a la veterinaria el GATO :{{$LoggedUserInfo['name']}}</h3>
-                <h5 class="text-white">has ingresado con el correo: {{$LoggedUserInfo['email']}}</h5>
+                <h3 class="text-white">Bienvenido a la veterinaria el patito :{{$LoggedUserInfo['name']}}</h3>
+                <h5 class="text-white">Has entrado con el correo: {{$LoggedUserInfo['email']}}</h5>
             </div>
         </div>
     </div>

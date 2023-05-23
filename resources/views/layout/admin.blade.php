@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
-    <title>Vet el GATO</title>
+    <title>El patito</title>
 
     <!--
 
@@ -54,8 +54,8 @@
             <div class="col-12">
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
-                    <a href="index.html" class="logo">
-                        El GATO
+                    <a href="/" class="logo">
+                        El patito
                     </a>
                     <!-- ***** Logo End ***** -->
                     <!-- ***** Menu Start ***** -->
@@ -63,7 +63,7 @@
                         <li class="scroll-to-section"><a href="/" class="active">Home</a></li>
                         <li class="scroll-to-section"><a href="/admin/citas">Agendar Cita</a></li>
 
-                        <li class="scroll-to-section"><a href="{{ route('auth.logout') }}">Salir</a></li>
+                        <li class="scroll-to-section"><a href="{{ route('auth.logout') }}">Logout</a></li>
                     </ul>
                     <a class='menu-trigger'>
                         <span>Menu</span>
@@ -77,18 +77,6 @@
 <!-- ***** Header Area End ***** -->
 
 <!-- ***** Search Area ***** -->
-<div id="search">
-    <button type="button" class="close">×</button>
-    <form id="contact" action="#" method="get">
-        <fieldset>
-            <input type="search" name="q" placeholder="SEARCH KEYWORD(s)" aria-label="Search through site content">
-        </fieldset>
-        <fieldset>
-            <button type="submit" class="main-button">Search</button>
-        </fieldset>
-    </form>
-</div>
-
 
 
 <!-- ***** Main Banner Area Start ***** -->
@@ -100,7 +88,7 @@
         <!-- Item -->
         <div class="item">
             <div class="img-fill">
-                <img src="{{ asset('images/gato3.jpg')}}" alt="">
+                <img src="{{ asset('images/pato01.jpg')}}" alt="">
                 <div class="text-content bg-dark bg-opacity-50">
                 </div>
             </div>
@@ -108,7 +96,7 @@
         <!-- // Item -->
     </div>
 </div>
-<div class="scroll-down scroll-to-section"><a href="#about"><i class="fa fa-arrow-down"></i></a></div>
+
 <!-- ***** Main Banner Area End ***** -->
 
 

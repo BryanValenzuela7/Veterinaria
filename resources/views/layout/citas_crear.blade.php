@@ -19,8 +19,8 @@
                     <input type="time" name="hora" id="hora">
                 </div>
                 <div class="form-group">
-                    <label for="seleccion">Seleccione si su cita es con el veterinario o con el estilista</label>
-                    <select name="seleccion" id="seleccion" class="form-control">
+                    <label for="seleccion">Su cita sera con el?</label>
+                    <select name="sel" id="seleccion" class="form-control">
                         <option value="veterinario">Veterinario</option>
                         <option value="estilista">Estilista</option>
                     </select>

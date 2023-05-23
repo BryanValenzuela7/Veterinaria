@@ -9,9 +9,9 @@
                 <table class="table table-bordered">
                     <thead>
                     <tr>
-                        <th>Día/Mascota</th>
-                        <th>Editar</th>
-                        <th>Eliminar</th></tr>
+                        <th>Descripcion de la cita</th>
+                        <th>Edite su cita</th>
+                        <th>Elimine su cita</th></tr>
                     </thead>
                     <tbody>
                     @foreach($citas as $cita)
